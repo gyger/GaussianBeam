@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fr_FR">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="fr_FR">
 <context>
     <name>GaussianBeamDelegate</name>
     <message>
@@ -14,7 +13,11 @@
     </message>
     <message>
         <source>MÂ²</source>
-        <translation>M²</translation>
+        <translation type="vanished">M²</translation>
+    </message>
+    <message>
+        <source>M²</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -29,7 +32,7 @@
     </message>
     <message>
         <source>MÂ²</source>
-        <translation>M²</translation>
+        <translation type="vanished">M²</translation>
     </message>
     <message>
         <source>width</source>
@@ -37,18 +40,26 @@
     </message>
     <message>
         <source>Â²</source>
-        <translation>²</translation>
+        <translation type="vanished">²</translation>
+    </message>
+    <message>
+        <source>M²</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>²</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GaussianBeamWidget</name>
     <message>
         <source>Radius @ 1/eÂ²</source>
-        <translation>Rayon @ 1/e²</translation>
+        <translation type="vanished">Rayon @ 1/e²</translation>
     </message>
     <message>
         <source>Diameter @ 1/eÂ²</source>
-        <translation>Diamètre @ 1/e²</translation>
+        <translation type="vanished">Diamètre @ 1/e²</translation>
     </message>
     <message>
         <source>Waist</source>
@@ -220,11 +231,11 @@
     </message>
     <message>
         <source>Cavity</source>
-        <translation>Cavité</translation>
+        <translation type="vanished">Cavité</translation>
     </message>
     <message>
         <source>Unstable</source>
-        <translation>Instable</translation>
+        <translation type="vanished">Instable</translation>
     </message>
     <message>
         <source>Aspect</source>
@@ -290,6 +301,14 @@ verticale</translation>
     <message>
         <source>Vertical position</source>
         <translation>Position verticale</translation>
+    </message>
+    <message>
+        <source>Radius @ 1/e²</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diameter @ 1/e²</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -561,7 +580,7 @@ verticale</translation>
     </message>
     <message>
         <source>Î¶</source>
-        <translation>ζ</translation>
+        <translation type="vanished">ζ</translation>
     </message>
     <message>
         <source>z-zw</source>
@@ -585,7 +604,7 @@ verticale</translation>
     </message>
     <message>
         <source>wâ</source>
-        <translation>w₀</translation>
+        <translation type="vanished">w₀</translation>
     </message>
     <message>
         <source>zw</source>
@@ -593,11 +612,11 @@ verticale</translation>
     </message>
     <message>
         <source>zâ</source>
-        <translation>z₀</translation>
+        <translation type="vanished">z₀</translation>
     </message>
     <message>
         <source>Îâ</source>
-        <translation>Θ₀</translation>
+        <translation type="vanished">Θ₀</translation>
     </message>
     <message>
         <source>Sens.</source>
@@ -666,6 +685,62 @@ verticale</translation>
     <message>
         <source>Ellipsoidal</source>
         <translation>Ellipsoïdal</translation>
+    </message>
+    <message>
+        <source>ζ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>w₀</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>z₀</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Θ₀</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>createBeam</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>lens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>thickLens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>flatMirror</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>curvedMirror</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>flatInterface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>curvedInterface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>dielectricSlab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>thermalLens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>genericABCD</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
